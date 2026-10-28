@@ -13,8 +13,8 @@ public class Sum {
         Scanner kbrd = new Scanner(System.in);
 
         System.out.println("eneter number");
-
         int num=kbrd.nextInt();
+        
         System.out.println(Sum_N(num));
     }
 }
